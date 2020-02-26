@@ -1,0 +1,29 @@
+스프링 구현 시 적용 할 기술들
+
+Transaction
+
+Mybatis(가능 하면 동적 쿼리도!!)
+
+Ajax(필요가 있다면?)
+
+Rest API (@ResponseBody 를 써야 할 부분이 있다면 Rest API로 활용해보자)
+
+messageSource
+
+interceptor
+
+검증은 @Vali로
+
+@Ailas
+
+@Respository(DAO)
+
+@Service(service)
+
+AOP(관점 지향) 적용
+
+TypeAlias
+
+JPA(가능하면?)
+
+
